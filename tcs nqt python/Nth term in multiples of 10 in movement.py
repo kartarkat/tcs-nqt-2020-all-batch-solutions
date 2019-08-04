@@ -10,7 +10,7 @@
 
 #Example-1
 #Input: 1
-#Expected Output: (0,0)
+#Expected Output: (10,0)
 
 #Example-2
 #Input: 4
